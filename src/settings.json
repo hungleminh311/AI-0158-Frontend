@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance.",
+        "title": "Transform Your Creative Vision into Winning Designs"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Transform Your Creative Vision into Winning Designs",
+  "subtitle": "Join gamble and revolutionize your approach to innovative design—because the best creations aren't left to chance."
+}
